@@ -1,6 +1,5 @@
 
-<h1>Hi, I'm Daniel Zinyemba! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-
+<h1>Hi, I'm Daniel Zinyemba!
 <h2>Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
